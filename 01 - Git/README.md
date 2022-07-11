@@ -18,5 +18,8 @@
     - Everything in Git is check-summed before it is stored i.e. It has integrity.
     - No central authority
     - Three main stages: **Working Directory**, **Staging Area**, and **Repository**
+    - Git allows the user to synchronize the local repository with other (remote) repositories.
+    - Users with sufficient authorization can send new versions of their local repository to the remote repositories via the push operation. They can also integrate changes from other repositories into their local repository via the fetch and pull operation.
+    
 - Centralised vs Distributed VC
 
